@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1348477970 source:d:\dropbox\med3\proceduralprogramming\excercises\ccanvas\main.cpp
+	"CCanvas.hpp"
+
+1348475750 d:\dropbox\med3\proceduralprogramming\excercises\ccanvas\ccanvas.hpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<vector>
+	<ctime>
+	<pthread.h>
+
+1348440237 source:f:\dropbox\med3\proceduralprogramming\excercises\ccanvas\main.cpp
+	"CCanvas.hpp"
+
+1348438085 f:\dropbox\med3\proceduralprogramming\excercises\ccanvas\ccanvas.hpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<vector>
+	<ctime>
+	<pthread.h>
+
+1348440294 source:f:\dropbox\med3\proceduralprogramming\excercises\ccanvas\ccanvas.cpp
+	"CCanvas.hpp"
+
+1348477530 source:d:\dropbox\med3\proceduralprogramming\excercises\ccanvas\ccanvas.cpp
+	"CCanvas.hpp"
+
